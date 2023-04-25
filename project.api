@@ -2,11 +2,10 @@
 !house.cpp graphics.h keys_n_colors.h #<#>
 !program.cpp graphics.h keys_n_colors.h picture.hpp #<#>
 fence() -> void #<picture.hpp>
-home : intwy=600;void #<house.cpp>
+fence(int x, int y) -> void #<fence.cpp>
 home(int x1, int y1, int x2, int y2, int r) -> void #<house.cpp>
 house() -> void #<picture.hpp>
 main() -> int #<program.cpp>
 man() -> void #<picture.hpp>
 paint() -> void #<house.cpp>
 sun() -> void #<picture.hpp>
-wx : int #<house.cpp>
