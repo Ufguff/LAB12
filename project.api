@@ -1,5 +1,6 @@
 # picture.hpp
 !program.cpp graphics.h keys_n_colors.h picture.hpp #<#>
+!sun.cpp graphics.h keys_n_colors.h picture.hpp #<#>
 fence() -> void #<picture.hpp>
 house() -> void #<picture.hpp>
 main() -> int #<program.cpp>
