@@ -2,6 +2,7 @@
 !program.cpp graphics.h keys_n_colors.h picture.hpp #<#>
 !sun.cpp graphics.h keys_n_colors.h picture.hpp #<#>
 fence() -> void #<picture.hpp>
+fence(int x, int y) -> void #<fence.cpp>
 house() -> void #<picture.hpp>
 main() -> int #<program.cpp>
 man() -> void #<picture.hpp>
