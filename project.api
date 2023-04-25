@@ -1,6 +1,7 @@
 # picture.hpp
 !house.cpp graphics.h keys_n_colors.h #<#>
 !program.cpp graphics.h keys_n_colors.h picture.hpp #<#>
+!sun.cpp graphics.h keys_n_colors.h picture.hpp #<#>
 fence() -> void #<picture.hpp>
 fence(int x, int y) -> void #<fence.cpp>
 home(int x1, int y1, int x2, int y2, int r) -> void #<house.cpp>
